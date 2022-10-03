@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization.Formatters;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,12 +9,12 @@ namespace PervayaLabaNaSharpe
 {
     public class Soldier
     {
-        private string Name { get { return Name; } set { Name = value; } }
-        private int healthPoints { get { return healthPoints; } set { healthPoints = value; } }
-        private int MaxHP { get { return MaxHP; } set { MaxHP = value; } }
-        private int HPRegeneration { get { return HPRegeneration; } set { HPRegeneration = value; } }
-        bool lifeStatus { get { return lifeStatus; } set { lifeStatus = value; } }
-        private int _impactForce { get { return _impactForce; } set { _impactForce = value; } }
+        protected internal string Name;//{ get { return Name; } set { Name = value; } }
+        public int healthPoints;//{ get { return healthPoints; } set { healthPoints = value; } }
+        protected internal int MaxHP;// { get { return MaxHP; } set { MaxHP = value; } }
+        protected internal int HPRegeneration;// { get { return HPRegeneration; } set { HPRegeneration = value; } }
+        protected internal bool lifeStatus;// { get { return lifeStatus; } set { lifeStatus = value; } }
+        protected internal int _impactForce;// { get { return _impactForce; } set { _impactForce = value; } }
 
         public Soldier(string name = "Deafult Name", int maxHealth = 1, int healthRegeneration = 1, int impactForce = 1)
         {

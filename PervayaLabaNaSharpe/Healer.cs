@@ -8,8 +8,8 @@ namespace PervayaLabaNaSharpe
 {
     public class Healer : Soldier
     {
-        private int _healForce { get { return _healForce; } set { _healForce = value; } }
-        Healer(string Name, int maxHealth, int impactForce, int healthRegeneration, int healForce)
+        private int _healForce;//{ get { return _healForce; } set { _healForce = value; } }
+        public Healer(string Name, int maxHealth, int impactForce, int healthRegeneration, int healForce)
         :base (Name, maxHealth, healthRegeneration, impactForce)
         {
             _healForce = healForce;

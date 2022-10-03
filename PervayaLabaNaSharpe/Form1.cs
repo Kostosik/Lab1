@@ -15,8 +15,8 @@ namespace PervayaLabaNaSharpe
         public Form1()
         {
             InitializeComponent();
-            BackgroundImage = Image.FromFile(@"C:\Users\User\source\repos\PervayaLabaNaSharpe\bg.jpg");
-            BackgroundImageLayout = ImageLayout.Stretch;
+            //BackgroundImage = Image.FromFile(@"C:\Users\Vadim\Desktop\PervayaLabaNaSharpe\bg.jpg");
+            //BackgroundImageLayout = ImageLayout.Stretch;
         }
 
         private void Form1_Load(object sender, EventArgs e)
