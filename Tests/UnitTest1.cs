@@ -30,14 +30,28 @@ namespace Tests
             int HealForce = 50;
 
             Healer toTest = new Healer(Name, MaxHP, Damage, HealthRegeneration, HealForce);
-
-            toTest.punch(toTest);
-            Assert.AreEqual(MaxHP-Damage, toTest.healthPoints, "Problems with damage");
+            Healer toTest2 = new Healer(Name, MaxHP, Damage, HealthRegeneration, HealForce);
+            toTest.punch(toTest2);
+            Assert.AreEqual(MaxHP-Damage, toTest2.healthPoints, "Problems with damage");
 
             toTest.heal(toTest);
             Assert.AreEqual(MaxHP, toTest.healthPoints, "Problems with healing");
         }
 
+        [TestMethod]
+        public void TestGroup()
+        {
+            uint SoldierCount = 5;
+            uint HealerCount = 5;
+            CharacterGroup toTest = new CharacterGroup(HealerCount, SoldierCount, 0);
 
+
+        }
+
+        [TestMethod]
+        public void TestFight()
+        {
+
+        }
     }
 }
