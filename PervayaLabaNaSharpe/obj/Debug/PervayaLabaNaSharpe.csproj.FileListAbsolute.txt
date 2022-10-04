@@ -31,3 +31,14 @@ C:\Users\kosto\Desktop\PervayaLabaNaSharpe\PervayaLabaNaSharpe\obj\Debug\Pervaya
 C:\Users\kosto\Desktop\PervayaLabaNaSharpe\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.exe.config
 C:\Users\kosto\Desktop\PervayaLabaNaSharpe\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.exe
 C:\Users\kosto\Desktop\PervayaLabaNaSharpe\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.pdb
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.csproj.AssemblyReference.cache
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.Form1.resources
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.Properties.Resources.resources
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.csproj.GenerateResource.cache
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.csproj.CoreCompileInputs.cache
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.exe
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\obj\Debug\PervayaLabaNaSharpe.pdb
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.exe.config
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.exe
+C:\Users\kosto\Documents\GitHub\Lab1\PervayaLabaNaSharpe\bin\Debug\PervayaLabaNaSharpe.pdb
